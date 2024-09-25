@@ -2,3 +2,4 @@ streamlit
 matplotlib
 WordCloud
 seaborn
+matplotlib.pyplot

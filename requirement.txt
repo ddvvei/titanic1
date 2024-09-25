@@ -3,3 +3,4 @@ matplotlib
 WordCloud
 seaborn
 matplotlib.pyplot
+pandas
